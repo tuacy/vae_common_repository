@@ -1,4 +1,4 @@
-package com.vae.wuyunxing.vae_repositories.widget.view;
+package com.vae.wuyunxing.vae_repositories.widget.view.edittext;
 
 import android.content.Context;
 import android.text.Editable;
